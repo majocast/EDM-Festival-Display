@@ -1,0 +1,8 @@
+12/7/2022
+-changes to index file implementation of block generator
+-implemented Blocks.java functionality to create random blocks across screen
+
+continue work:
+-Blocks.java implementation to stop randomization of block heights
+-implement HashMap to store blocks for further sorting
+-implement sorting algorithm
