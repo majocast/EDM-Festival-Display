@@ -30,11 +30,15 @@ public class Index {
             i++;
         }
 
+        /* Prints data inside Object[][] data
         for(int j = 0; j < data.length; j++) {
             for(int k = 0; k < data[j].length; k++) {
                 System.out.println(data[j][k]);
             }
         }
+        */
+
+        
 
         frame = new JFrame("California Events");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

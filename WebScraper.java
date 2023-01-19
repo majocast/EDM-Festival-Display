@@ -4,7 +4,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.*;
 import java.io.File;  // Import the File class
 import java.io.FileWriter;
-import java.io.IOException;  // Import the IOException class to handle errors 
 
 //https://www.iheartraves.com/pages/popular-raves-and-festivals-in-the-us
 
@@ -13,11 +12,11 @@ public class WebScraper {
     public final static String url = "https://www.iheartraves.com/pages/popular-raves-and-festivals-in-the-us";
     public static String fileName = "EDM-Events.txt";
 
-    public static void main(String[] args) {
-        new WebScraper().scrape();
+    WebScraper() {
+        scrape();
     }
 
-    private void scrape() {
+    void scrape() {
         File file = new File(fileName);
         try {
             if(file.createNewFile()) {

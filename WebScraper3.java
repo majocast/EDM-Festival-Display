@@ -16,8 +16,9 @@ public class WebScraper3 {
 
     public final static String url = "https://concerts50.com/upcoming-concerts-in-california/g/dance-electronic?city=san-francisco&is_hot=0&dateto=";
     public static String fileName = "Concerts50-Res.txt";
-    public static void main(String[] args) {
-        new WebScraper3().scrape();
+    
+    WebScraper3() {
+        scrape();
     }
     
     private void scrape() {

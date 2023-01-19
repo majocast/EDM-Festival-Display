@@ -1,8 +1,33 @@
-12/7/2022
--changes to index file implementation of block generator
--implemented Blocks.java functionality to create random blocks across screen
+1/10/2023
+-Creation of project
 
-continue work:
--Blocks.java implementation to stop randomization of block heights
--implement HashMap to store blocks for further sorting
--implement sorting algorithm
+Concept: A computer application that displays relevant information regarding EDM concerts in a specified area.
+-Target Area: California (Bay Area)
+-Target Audience: Preferably young adults, current test audience will be my friends.
+
+
+1/11/2023
+-Creation of Event.java, Index.java, Storage.java
+
+-Event.java
+    -Class object that stores the information for a specific event object and makes the information retrievable.
+-Index.java
+    -Will serve as main function running to organize, store, and make the data accessible to user.
+-Storage.java
+    -Storage complex by means of HashMap. Accessible class object when we need to access all the inputted values with their respective keys.
+
+1/13/2023
+-Creation of WebScraper.java
+    -Baseline webscraper that pulls EDM festival information from a website I have specified. Emphasis on festival, normal concerts are not included in this website's listing.
+
+1/14-16/2023
+-Learned more dynamic webscraping rather than just scraping through a preset table established by hard code. Learned about url authorization requests in order to access function created html elements. 
+
+-Creation of WebScraper2.java & WebScraper3.java
+    -Upgraded webscraper concept that uses url/https access authorization to access a loaded version of the automatically updating web pages and pull information via understanding select() functions and UBlock's cosmetic highlighting.
+
+1/17/2023
+
+-Started implementation of WebScraper.java into Storage.java to pull data from the created text sheet and plug in values into the dataMap. 
+-Making changes to WebScraper.java to pull data regarding date and location in order to put those into the created Event object that is inserted into the Data Map.
+

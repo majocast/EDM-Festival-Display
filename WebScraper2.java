@@ -16,8 +16,9 @@ public class WebScraper2 {
 
     public final static String url = "https://www.insomniac.com/events/concerts/";
     public static String fileName = "EDM-Event-Res.txt";
-    public static void main(String[] args) {
-        new WebScraper2().scrape();
+    
+    WebScraper2() {
+        scrape();
     }
     
     private void scrape() {

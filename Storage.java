@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
+import java.io.*;
 import java.util.*;
 import java.sql.*;
 
@@ -7,7 +8,26 @@ public class Storage {
     HashMap<String, Event> dataMap;
 
     Storage() {
+        new WebScraper();
+        new WebScraper2();
+        new WebScraper3();
+
+        File edmEventsFile = new File("EDM-Events.txt");
         dataMap = new HashMap<String, Event>();
+        Scanner scan;
+
+        try {
+            scan = new Scanner(edmEventsFile);
+            while(scan.hasNextLine()) {
+                String line = scan.nextLine();
+                dataMap.put(line, new Event(line, 400, "01/01/2023", "NOS Event Center", true));
+            }
+            System.out.println("# of objects after EDM-Events.txt: " + dataMap.size());
+        } catch (FileNotFoundException e) {
+            System.out.println("File does not exist");
+            e.printStackTrace();
+        }
+        /* 
         dataMap.put("Countdown", new Event("Countdown", 400, "01/01/2023", "NOS Event Center", true));
         dataMap.put("Beyond Wonderland", new Event("Beyond Wonderland", 250, "03/24/2023", "NOS Event Center", true));
         dataMap.put("Sullivan King", new Event("Sullivan King", 60, "04/01/2023", "The Midway SF", false));
@@ -27,5 +47,6 @@ public class Storage {
         dataMap.put("Outside Lands", new Event("Outside Lands", 150, "08/11/2023", "San Francisco, CA", true));
         dataMap.put("Electronic Daisy Carnival", new Event("EDC", 390, "05/19/2023", "Las Vegas Motor Speedway", true));
         dataMap.put("Seven Lions", new Event("Seven Lions", 55, "06/16/2023", "Greek Theatre, Berkeley", false));
+        */
     }
 }
