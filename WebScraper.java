@@ -40,7 +40,11 @@ public class WebScraper {
                 if(rowColu1.select("td:nth-of-type(1)").text().equals("")) {
                     continue;
                 } else {
-                    final String ticker = rowColu1.select("td:nth-of-type(1)").text();
+                    String ticker = rowColu1.select("td:nth-of-type(1)").text();
+                    writer.write(ticker + " ");
+                    ticker = rowColu1.select("td:nth-of-type(2)").text();
+                    writer.write(ticker + " ");
+                    ticker = rowColu1.select("td:nth-of-type(3)").text();
                     writer.write(ticker + "\n");
                 }
             }

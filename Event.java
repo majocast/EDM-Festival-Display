@@ -25,19 +25,39 @@ public class Event {
         return this.date;
     }
 
+    public void setDate(String date) {
+        this.date = date;
+    }
+
     public String getName() {
         return this.name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getLocation() {
         return this.location;
     }
 
+    public void setLocation(String location) {
+        this.location = location;
+    }
+
     public int getPrice() {
         return this.price;
     }
 
+    public void setPrice(int price) {
+        this.price = price;
+    }
+
     public boolean getFestival() {
         return this.festival;
+    }
+
+    public void setFestival(boolean festival) {
+        this.festival = festival;
     }
 }

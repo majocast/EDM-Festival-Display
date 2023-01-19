@@ -19,7 +19,9 @@ Sat, 9:00 PM Jan 28 2023 Puzzle, Kamixlo August Hall - San Francisco, CA Tickets
 Sat, 9:00 PM Jan 28 2023 Mild Minds The Independent - San Francisco, CA Tickets
 Wed, 8:00 PM Feb 01 2023 The Mattson 2 Line-Up The Mattson 2, Paul Cherry The Chapel San Francisco - San Francisco, CA Tickets
 Thu, 8:00 PM Feb 02 2023 PIERRE KWENDERS touring with High Pulp Popscene @ Rickshaw Stop - San Francisco, CA Tickets
+Thu, 8:00 PM Feb 02 2023 Red Room Orchestra Great American Music Hall - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 03 2023 Walker and Royce The Midway - CA - San Francisco, CA Tickets
+Fri, 9:00 PM Feb 03 2023 Red Room Orchestra Great American Music Hall - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 03 2023 Taylor Rave - a Taylor Swift Rave August Hall - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 03 2023 Kim Lee Yolo Nightclub - San Francisco - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 03 2023 Channel Tres 1015 FOLSOM - San Francisco, CA Tickets
@@ -94,5 +96,3 @@ Fri, 9:00 PM Apr 21 2023 Lotus The Independent - San Francisco, CA Tickets
 Fri, 9:00 PM Apr 28 2023 Amtrac The Independent - San Francisco, CA Tickets
 Mon, 8:00 PM May 01 2023 Caroline Polachek Warfield - San Francisco, CA Tickets
 Fri, 8:00 PM May 12 2023 Ladytron August Hall - San Francisco, CA Tickets
-Wed, 7:30 PM Oct 11 2023 Igorrr Great American Music Hall - San Francisco, CA Tickets
-Tue, 8:00 PM Dec 19 2023 Marc Rebillet 1015 FOLSOM - San Francisco, CA Tickets
