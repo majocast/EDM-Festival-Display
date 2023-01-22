@@ -31,3 +31,12 @@ Concept: A computer application that displays relevant information regarding EDM
 -Started implementation of WebScraper.java into Storage.java to pull data from the created text sheet and plug in values into the dataMap. 
 -Making changes to WebScraper.java to pull data regarding date and location in order to put those into the created Event object that is inserted into the Data Map.
 
+1/21/2023
+
+-Moved all webscrapers into one scraper class
+-deleted a webscraper, now using 2 websites as data pool is large enough
+-fixed storage implementation to make dataMap available to pass between all classes
+-moved file creation from webscraper to FileCreate.java
+-updated Event.java to not include price as prices vary from providers
+-updated scraping methods to find individual pieces and apply them to fields in the event class/dataMap additions
+-deleted majority of commented out code that was unnecessary

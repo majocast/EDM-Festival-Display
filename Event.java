@@ -4,21 +4,19 @@ import java.util.*;
 
 public class Event {
     private String name;
-    private int price;
     private String date;
     private String location;
     private boolean festival;
 
-    Event(String name, int price, String date, String location, boolean festival) {
+    Event(String name, String date, String location, boolean festival) {
         this.name = name;
-        this.price = price;
         this.date = date;
         this.location = location;
         this.festival = festival;
     }
 
     public void display() {
-        System.out.println("name: " + name + " | price: $" + price + " | date: " + date + " | location: " + location + " | festival?: " + festival);
+        System.out.println("name: " + name + " | date: " + date + " | location: " + location + " | festival?: " + festival);
     }
 
     public String getDate() {
@@ -43,14 +41,6 @@ public class Event {
 
     public void setLocation(String location) {
         this.location = location;
-    }
-
-    public int getPrice() {
-        return this.price;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
     }
 
     public boolean getFestival() {
