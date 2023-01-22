@@ -7,11 +7,12 @@ public class Index {
     private static JFrame frame;
     public Storage storage;
 
-
     public static void main(String[] args) {
         new FileCreate();
         Index index = new Index();
         index.storage = new Storage();
+        frame = new JFrame("California Events");
+
 /*
         for(Event event : index.storage.dataMap.values()) {
             event.display();
@@ -39,7 +40,18 @@ public class Index {
         }
         */
 
-        frame = new JFrame("California Events");
+        JTable table = new JTable(data, columns);
+        JScrollPane scrollPane = new JScrollPane(table);
+        table.setFillsViewportHeight(true);
+        JLabel lblHeading = new JLabel("Concerts/Festivals of Interest");
+        lblHeading.setFont(new Font("Arial",Font.TRUETYPE_FONT,24));
+
+        frame.getContentPane().setLayout(new BorderLayout());
+
+        frame.getContentPane().add(lblHeading,BorderLayout.PAGE_START);
+        frame.getContentPane().add(scrollPane,BorderLayout.CENTER);
+
+        frame.setSize(550, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
 
