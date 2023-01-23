@@ -53,7 +53,7 @@ public class WebScraper{
                     if(name.contains("Bass Canyon")) {
                         location = "George, WA";
                     } else if (location.contains("")) {
-                        location = "TBD";
+                        location = "OPEN FOR RESEARCH";
                     }
 
                     dataMap.put(name, new Event(name, date + ", 2023", location, true));

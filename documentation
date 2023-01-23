@@ -40,3 +40,9 @@ Concept: A computer application that displays relevant information regarding EDM
 -updated Event.java to not include price as prices vary from providers
 -updated scraping methods to find individual pieces and apply them to fields in the event class/dataMap additions
 -deleted majority of commented out code that was unnecessary
+-added JTable to Index.java to display current Data
+
+1/22/2023
+-included text bar for searching for items
+-started work with Table Sorter implementation
+-Have last working version of JTable commented out, working on new version with filtering options.
