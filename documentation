@@ -50,8 +50,9 @@ Concept: A computer application that displays relevant information regarding EDM
 1/27/2023
 -fixed filter, just very case sensitive
 -finished elementary code cleaning.
+-removed text writer and FileCreate.java to minimize usage of resources to write
 
-PROJECT TECHNICALLY COMPLETE (1/27/2023)
+PROJECT COMPLETE (1/27/2023)
 
 Potential Improvements later on:
 -Making the filter less sensitive

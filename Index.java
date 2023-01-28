@@ -8,7 +8,6 @@ public class Index {
     public Storage storage;
 
     public static void main(String[] args) {
-        new FileCreate();
         Index index = new Index();
         index.storage = new Storage();
         
