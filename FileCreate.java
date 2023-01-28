@@ -1,18 +1,9 @@
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.*;
-import java.io.File;  // Import the File class
-import java.io.FileWriter;
-import java.net.URL;
-import java.io.*;
-import javax.net.ssl.HttpsURLConnection;
+import java.io.File;
 
 public class FileCreate {
 
     public static String fileName1 = "EDM-Events.txt";
     public static String fileName2 = "Concerts50-Res.txt";
-
 
     FileCreate() {
         File file1 = new File(fileName1);

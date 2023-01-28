@@ -1,7 +1,3 @@
-Tue, 8:00 PM Jan 24 2023 Junior Boys Line-Up Junior Boys, Claire Rousay The Fillmore - San Francisco, CA Tickets
-Thu, 8:00 PM Jan 26 2023 Byrell the Great Public Works - San Francisco, CA Tickets
-Thu, 9:00 PM Jan 26 2023 Trym & Spartaque Line-Up Trym, Spartaque 1015 FOLSOM - San Francisco, CA Tickets
-Fri, 8:00 PM Jan 27 2023 Lettuce The Fillmore - San Francisco, CA Tickets
 Fri, 9:00 PM Jan 27 2023 Juan Atkins Public Works - San Francisco, CA Tickets
 Fri, 9:30 PM Jan 27 2023 Alpha 9 Audio SF - San Francisco, CA Tickets
 Fri, 10:00 PM Jan 27 2023 Kai Wachi 1015 FOLSOM - San Francisco, CA Tickets
@@ -16,7 +12,6 @@ Thu, 8:00 PM Feb 02 2023 Red Room Orchestra Great American Music Hall - San Fran
 Fri, 9:00 PM Feb 03 2023 Walker and Royce The Midway - CA - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 03 2023 Red Room Orchestra Great American Music Hall - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 03 2023 Taylor Rave - a Taylor Swift Rave August Hall - San Francisco, CA Tickets
-Fri, 10:00 PM Feb 03 2023 Kim Lee Yolo Nightclub - San Francisco - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 03 2023 Channel Tres 1015 FOLSOM - San Francisco, CA Tickets
 Sat, 8:00 PM Feb 04 2023 Rubblebucket The Fillmore - San Francisco, CA Tickets
 Sat, 9:00 PM Feb 04 2023 Plaid The Independent - San Francisco, CA Tickets
@@ -24,11 +19,11 @@ Sat, 10:00 PM Feb 04 2023 Dance Yourself Clean August Hall - San Francisco, CA T
 Thu, 8:30 PM Feb 09 2023 Bitchin Bajas The Chapel San Francisco - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 10 2023 Kasablanca The Independent - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 10 2023 Wooli Line-Up Wooli, Ray Volpe The Midway - San Francisco, CA Tickets
+Fri, 9:00 PM Feb 10 2023 BE OUR GUEST: THE UNOFFICIAL DJ DISNEY NIGHT Popscene @ Rickshaw Stop - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 10 2023 Lee Foss 1015 FOLSOM - San Francisco, CA Tickets
-Fri, 10:00 PM Feb 10 2023 JVNA Yolo Nightclub - San Francisco - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 10 2023 San Pacho Audio SF - San Francisco, CA Tickets
+Sat, 7:00 PM Feb 11 2023 What So Not Gray Area Art & Technology Theater - San Francisco, CA Tickets
 Sat, 8:00 PM Feb 11 2023 Eden Line-Up Eden, Slenderbodies Warfield - San Francisco, CA Tickets
-Sat, 9:00 PM Feb 11 2023 Danilo Plessow Public Works - San Francisco, CA Tickets
 Sun, 8:00 PM Feb 12 2023 SUUNS The Chapel San Francisco - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 17 2023 Inzo Regency Ballroom - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 17 2023 Yotto The Midway - San Francisco, CA Tickets
@@ -41,25 +36,31 @@ Thu, 9:00 PM Feb 23 2023 Magic City Hippies The Fillmore - San Francisco, CA Tic
 Fri, 9:00 PM Feb 24 2023 Michael Bibi The Midway - San Francisco, CA Tickets
 canceled Feb 24 2023 Little Big The Independent - San Francisco, CA Tickets
 Fri, 9:00 PM Feb 24 2023 Tourist Public Works - San Francisco, CA Tickets
+Fri, 9:30 PM Feb 24 2023 Chris Malinchak Audio SF - San Francisco, CA Tickets
 Fri, 10:00 PM Feb 24 2023 Boy Harsher 1015 FOLSOM - San Francisco, CA Tickets
 Sat, 3:00 PM Feb 25 2023 Paul Oakenfold The Midway - CA - San Francisco, CA Tickets
 Sat, 9:00 PM Feb 25 2023 Of the Trees The Regency Ballroom - San Francisco, CA Tickets
 Sat, 9:00 PM Feb 25 2023 Stella Bossi The Midway - CA - San Francisco, CA Tickets
 Sat, 9:30 PM Feb 25 2023 Sultan + Shepard Audio SF - San Francisco, CA Tickets
 Sat, 9:30 PM Feb 25 2023 He.She.They Public Works - San Francisco, CA Tickets
+Sat, 10:00 PM Feb 25 2023 Party101 With DJ Matt Bennett August Hall - San Francisco, CA Tickets
 Sun, 9:00 PM Feb 26 2023 Stella Bossi The Midway - CA - San Francisco, CA Tickets
 Wed, 7:30 PM Mar 01 2023 BIIG PIIG Popscene @ Rickshaw Stop - San Francisco, CA Tickets
 Thu, 10:00 PM Mar 02 2023 Bon Entendeur 1015 FOLSOM - San Francisco, CA Tickets
 Fri, 8:00 PM Mar 03 2023 William Black The Midway - San Francisco, CA Tickets
 Sat, 9:00 PM Mar 04 2023 Dr. Fresch The Midway - San Francisco, CA Tickets
+Sat, 9:00 PM Mar 04 2023 Lil Dusty G, Ronen Brick and Mortar Music Hall - San Francisco, CA Tickets
 Sat, 9:30 PM Mar 04 2023 Jerro Audio SF - San Francisco, CA Tickets
 Tue, 8:00 PM Mar 07 2023 Jawny Bimbo's 365 Club - San Francisco, CA Tickets
+Thu, 9:00 PM Mar 09 2023 Salvatore Ganacci 1015 FOLSOM - San Francisco, CA Tickets
 Fri, 9:00 PM Mar 10 2023 Wax Tailor The Regency Ballroom - San Francisco, CA Tickets
 Fri, 9:00 PM Mar 10 2023 Paul van Dyk Public Works - San Francisco, CA Tickets
 Fri, 11:00 PM Mar 10 2023 Lost Kings 1015 FOLSOM - San Francisco, CA Tickets
 Sat, 7:00 PM Mar 11 2023 Steve Aoki Line-Up Steve Aoki, 4b, Jstjr, Regard, Callie Reiff Bill Graham Civic Auditorium - San Francisco, CA Tickets
 Sat, 8:00 PM Mar 11 2023 Adam Melchor The Fillmore - San Francisco, CA Tickets
 Sat, 8:00 PM Mar 11 2023 Leyla Blue: The Baby Blue Tour Cafe Du Nord - San Francisco, CA Tickets
+Sat, 8:00 PM Mar 11 2023 Deorro The Midway - San Francisco, CA Tickets
+Sat, 9:30 PM Mar 11 2023 Justin Martin Audio SF - San Francisco, CA Tickets
 Sun, 7:00 PM Mar 12 2023 Ibeyi August Hall - San Francisco, CA Tickets
 Sun, 8:00 PM Mar 12 2023 Ibeyi August Hall - San Francisco, CA Tickets
 Tue, 8:00 PM Mar 14 2023 Raye Popscene @ Rickshaw Stop - San Francisco, CA Tickets
@@ -72,6 +73,7 @@ Fri, 10:00 PM Mar 17 2023 Robin Schulz 1015 FOLSOM - San Francisco, CA Tickets
 Sat, 9:00 PM Mar 18 2023 Boogie T Public Works - San Francisco, CA Tickets
 Sat, 9:00 PM Mar 18 2023 Vancouver Sleep Clinic The Independent - San Francisco, CA Tickets
 Sat, 9:00 PM Mar 18 2023 Carl Cox & Joseph Capriati Line-Up Carl Cox, Joseph Capriati The Midway - CA - San Francisco, CA Tickets
+Sat, 9:00 PM Mar 18 2023 Shrek Rave Regency Ballroom - San Francisco, CA Tickets
 Sat, 9:30 PM Mar 18 2023 SIMON DOTY Audio SF - San Francisco, CA Tickets
 Tue, 8:00 PM Mar 21 2023 Shygirl The Regency Ballroom - San Francisco, CA Tickets
 Fri, 9:00 PM Mar 24 2023 ALEX LUSTIG Popscene @ Rickshaw Stop - San Francisco, CA Tickets
@@ -86,15 +88,13 @@ Fri, 10:00 PM Mar 31 2023 Ivy Lab 1015 FOLSOM - San Francisco, CA Tickets
 Sat, 7:00 PM Apr 01 2023 Dabin Line-Up Dabin, Apashe, Wavedash, Grabbitz Bill Graham Civic Auditorium - San Francisco, CA Tickets
 Sat, 8:00 PM Apr 01 2023 Sullivan King The Midway - San Francisco, CA Tickets
 Tue, 7:00 PM Apr 04 2023 Tiffany Day Popscene @ Rickshaw Stop - San Francisco, CA Tickets
+Fri, 8:00 PM Apr 07 2023 KSHMR Bill Graham Civic Auditorium - San Francisco, CA Tickets
 Sat, 9:00 PM Apr 08 2023 Two Another - Back To Us Tour The Independent - San Francisco, CA Tickets
 Thu, 8:00 PM Apr 13 2023 Latrice Royale presents Life Goes On Bimbo's 365 Club - San Francisco, CA Tickets
-Thu, 8:00 PM Apr 13 2023 Elderbrook The Warfield - San Francisco, CA Tickets
+Thu, 8:00 PM Apr 13 2023 Elderbrook Line-Up Elderbrook, Ford. The Warfield - San Francisco, CA Tickets
+Thu, 9:00 PM Apr 13 2023 Overmono 1015 FOLSOM - San Francisco, CA Tickets
 Fri, 9:00 PM Apr 21 2023 Lotus The Independent - San Francisco, CA Tickets
+Sat, 2:00 PM Apr 22 2023 Boris Brejcha Line-Up Boris Brejcha, Ann Clue The Midway - San Francisco, CA Tickets
 Sat, 9:00 PM Apr 22 2023 Hippie Sabotage The Warfield - San Francisco, CA Tickets
 Fri, 9:00 PM Apr 28 2023 Avey Tare The Chapel San Francisco - San Francisco, CA Tickets
 Fri, 9:00 PM Apr 28 2023 Amtrac The Independent - San Francisco, CA Tickets
-Mon, 8:00 PM May 01 2023 Caroline Polachek Warfield - San Francisco, CA Tickets
-Wed, 8:00 PM May 10 2023 Kerala Dust The Independent - San Francisco, CA Tickets
-Fri, 8:00 PM May 12 2023 Ladytron August Hall - San Francisco, CA Tickets
-Fri, 10:00 PM May 19 2023 Snakehips 1015 Folsom Nightclub - San Francisco, CA Tickets
-Sat, 2:00 PM May 20 2023 Two Friends The Midway - CA - San Francisco, CA Tickets

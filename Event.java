@@ -1,7 +1,3 @@
-import javax.swing.*;
-import java.awt.*;
-import java.util.*;
-
 public class Event {
     private String name;
     private String date;

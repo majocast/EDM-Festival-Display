@@ -2,8 +2,6 @@ import javax.swing.*;
 import javax.swing.table.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.*;
-import java.sql.*;
 
 public class Index {
     private static JFrame frame;
@@ -27,32 +25,9 @@ public class Index {
             data[i][3] = event.getFestival();
             i++;
         }
-        
+        frame = new JFrame("San Francisco/Festival Scraper");
         JTable table = new JTable(data, columns);
-        /*
-        JScrollPane scrollPane = new JScrollPane(table);
-        table.setFillsViewportHeight(true);
-        JLabel lblHeading = new JLabel("Concerts/Festivals of Interest");
-        lblHeading.setFont(new Font("Arial",Font.TRUETYPE_FONT,24));
 
-        frame.getContentPane().setLayout(new BorderLayout());
-
-        frame.getContentPane().add(lblHeading,BorderLayout.PAGE_START);
-        frame.getContentPane().add(scrollPane,BorderLayout.CENTER);
-
-        frame.setSize(550, 400);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
-
-
-
-        JTable table = new JTable(data, columns);
-        JScrollPane scrollPane = new JScrollPane(table);
-        table.setFillsViewportHeight(true);
-        JLabel searchHead = new JLabel("Search:");
-        JTextField searchBar = new JTextField("")
-
-        */
         final TableRowSorter<TableModel> sorter = new TableRowSorter<TableModel>(table.getModel());
         table.setRowSorter(sorter);
         frame.add(new JScrollPane(table), BorderLayout.CENTER);
@@ -64,7 +39,7 @@ public class Index {
         frame.add(panel, BorderLayout.NORTH);
         filterText.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                String text = filterText.getText();
+                String text = filterText.getText().trim();
                 if(text.length() == 0) {
                     sorter.setRowFilter(null);
                 } else {
@@ -75,10 +50,9 @@ public class Index {
                         System.out.println("Bad regex pattern");
                     }
                 }
-                
             }
         });
-        frame.setSize(400, 300);
+        frame.setSize(550, 400);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);

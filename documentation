@@ -46,3 +46,15 @@ Concept: A computer application that displays relevant information regarding EDM
 -included text bar for searching for items
 -started work with Table Sorter implementation
 -Have last working version of JTable commented out, working on new version with filtering options.
+
+1/27/2023
+-fixed filter, just very case sensitive
+-finished elementary code cleaning.
+
+PROJECT TECHNICALLY COMPLETE (1/27/2023)
+
+Potential Improvements later on:
+-Making the filter less sensitive
+-Re-formating dates to all be the same format
+-creating a graph methodology to display events (dates on x-axis, price on y-axis)
+-improvements on webscraper to potentially look for best price for each event

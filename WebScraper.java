@@ -2,17 +2,11 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.*;
-import java.io.File;  // Import the File class
 import java.io.FileWriter;
 import java.net.URL;
-import java.text.*;
 import java.util.*;
 import java.io.*;
 import javax.net.ssl.HttpsURLConnection;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.*;
 
 //https://www.iheartraves.com/pages/popular-raves-and-festivals-in-the-us
 
